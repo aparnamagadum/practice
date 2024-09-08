@@ -1,0 +1,9 @@
+.far.fa-star.star-icon{
+    color: white;
+}
+.far:hover{
+    background-color: chartreuse;
+}
+.far:active{
+    background-color: chartreuse;
+}
